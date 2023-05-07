@@ -1,5 +1,5 @@
 # Contact_App-React
-React uygulaması Contact App
+React ders uygulaması Contact App
 
 İncelemek için [Contact App](http://localhost:5173/).
 
